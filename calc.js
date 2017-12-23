@@ -57,6 +57,7 @@ form.addEventListener('submit', function(event){
         labels[0].style.display = "block";
         labels[0].style.fontSize = "28px";
         labels[0].innerHTML = "";
+        labels[0].style.whiteSpace = "pre-wrap";
         
         for(var i=1; i<=TotalRooms; i++){
             labels[0].innerHTML += "Room#"+(i)+"\t:\t100\n";
