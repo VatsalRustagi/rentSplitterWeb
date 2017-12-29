@@ -4,8 +4,11 @@
 
 ## Let's look at some Screenshots . . .
 
-<p>
+<p align = "center">
+    First enter the basic details of your house. <br>
     <img width="500px" src="screenshots/img1.png">
+    Then each room's details. <br>
     <img width="500px" src="screenshots/img2.png">
+    The website's brain takes cares of the information to calculate your rent. <br>
     <img width="500px" src="screenshots/img3.png">
 </p>
