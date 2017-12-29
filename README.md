@@ -1,4 +1,4 @@
-<h1 align="center"> Rent-Splitter Web </h1>
+<h1 align="center"> Rent-Splitter Web <a href="https://vatsalrustagi.github.io/rentSplitterWeb">( Try it )</a> </h1>
 
 >The purpose of this website is to help college students split their house rent quickly.
 
