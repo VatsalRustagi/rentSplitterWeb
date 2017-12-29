@@ -4,7 +4,7 @@
 
 ## Let's look at some Screenshots . . .
 
-<p align = "center">
+<p>
     First enter the basic details of your house. <br>
     <img width="500px" src="screenshots/img1.png">
     Then each room's details. <br>
